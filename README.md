@@ -10,6 +10,8 @@
 - hide Explore
 - hide List Header
 
+For new features, checkout the [Projects tab](https://github.com/nikolaygit/twitter-cleaner/projects).
+
 # Installation
 
 - Install a browser extension that supports managing userscripts. Suggestions:
@@ -17,3 +19,7 @@
 - Install the script
   - locally with copy and paste
   - or online: https://openuserjs.org/scripts/freeos/Twitter_Cleaner
+
+# Issues and Requests
+
+If you have issues or requests, please [open a Github issue](https://github.com/nikolaygit/twitter-cleaner/issues).
